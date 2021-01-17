@@ -6,6 +6,8 @@
 
 ![使用说明](http://zkeq.gitee.io/qqprotect/QQprotect.gif)
 
+#### 设置成功后，QQ会在每次重启首次启动时尝试访问，火绒会弹窗询问，选择禁止即可（也可选择  记住本次操作，下次自动处理）一劳永逸
+
 # 文件下载
 
 [http://zkeq.gitee.io/qqprotect/QQ防护.json](http://zkeq.gitee.io/qqprotect/QQ%E9%98%B2%E6%8A%A4.json)
