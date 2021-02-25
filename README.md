@@ -2,7 +2,7 @@
 
 # 使用说明
 
-### [查看网页版地址](https://qqprotect.learnonly.xyz/)
+### [查看网页版地址](https://qqprotect.learnonly.xyz/)(可显示 gif 教程图）
 
 #### 下载火绒
 
