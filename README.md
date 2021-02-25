@@ -2,6 +2,8 @@
 
 # 使用说明
 
+### [查看网页版地址](https://qqprotect.learnonly.xyz/)
+
 #### 下载火绒
 
 ![使用说明](http://zkeq.gitee.io/qqprotect/QQprotect.gif)
